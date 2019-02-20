@@ -1,3 +1,3 @@
-##Menu con traductor
+## Menú con traductor
 
-Creado por Daniel Jonathan Zurita Mena
+Creado por *Daniel Jonathan Zurita Mena*
